@@ -2,5 +2,7 @@
 #include<conio.h>
 void main()
 {
-  printf("hello world!");
-}  
+clrscr();
+printf("hello world");
+getch();
+}
